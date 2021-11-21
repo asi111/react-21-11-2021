@@ -1,0 +1,25 @@
+.chefCard{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+    
+}
+
+.chefCard img{
+    width:200px;
+    border-radius: 50%;
+}
+
+h4{
+    color: #000;
+    margin-left: 30px;
+    ;
+       
+       }
+       
+       p{
+           color: #000;
+           margin-left: 30px;
+       }  
+   
+   
